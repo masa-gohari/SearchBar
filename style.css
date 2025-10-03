@@ -11,12 +11,15 @@ body {
             #302b63,
             #0f0c29);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    display: flex;
-    justify-content: center;
-    align-items: center;
     height: 100vh;
+    font-family: "Itim",cursive;
 }
 
+h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 15%;
+}
 .search-box {
     background: white;
     border-radius: 5px;
